@@ -1,5 +1,7 @@
 # User Manual Plugin
 
+[![Claude Code Repos Index](https://img.shields.io/badge/Claude_Code-Repos_Index-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-8A2BE2?style=for-the-badge&logo=anthropic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -101,3 +103,7 @@ MIT
 - Website: [danielrosehill.com](https://danielrosehill.com)
 - Email: public@danielrosehill.com
 - GitHub: [@danielrosehill](https://github.com/danielrosehill)
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
