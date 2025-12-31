@@ -1,0 +1,33 @@
+{
+  "name": "user-manual",
+  "description": "Claude Code plugin for generating personal user manuals and private documentation for codebases. Creates personalized, private reference guides with PDF output support.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/user-manual-plugin"
+  },
+  "commands": [
+    "./commands/user-manual.md",
+    "./commands/doc-setup.md",
+    "./commands/generate-parts.md",
+    "./commands/create-pdf.md",
+    "./commands/disseminate.md",
+    "./commands/create-private-repo.md"
+  ],
+  "skills": [
+    "./skills/documentation-writer"
+  ],
+  "keywords": [
+    "documentation",
+    "user-manual",
+    "private-docs",
+    "pdf-generation",
+    "personal-reference"
+  ]
+}
